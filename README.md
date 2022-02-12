@@ -1,0 +1,3 @@
+关于gnark@v0.6.2的bug
+frontend.Compile没有正确解析电路的结构体
+但结构体中的field为结构体时，tag无法正确标注变量的属性为public
